@@ -13,7 +13,7 @@ export default function Portfolio() {
       <section className="mb-10">
         <h2 className="text-2xl font-semibold mb-4">About Me</h2>
         <p className="text-gray-700">
-          I am an enthusiastic Web Developer skilled in building modern, responsive, and dynamic web applications.
+          I am an enthusiastic Web Developer skills in building modern, responsive, and dynamic web applications.
           Experienced in React.js, Node.js, and MongoDB with a strong focus on clean design and performance.
         </p>
       </section>
