@@ -58,8 +58,8 @@ export default function Portfolio() {
 
       <section className="text-center">
         <h2 className="text-2xl font-semibold mb-4">Contact</h2>
-        <p>Email: your.email@example.com</p>
-        <Button className="mt-4">Get in Touch</Button>
+        <p>Email: mdabdullah2026@gmail.com</p>
+        <Button className="mt-4">Get touch</Button>
       </section>
     </main>
   ); 
